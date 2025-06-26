@@ -1,6 +1,5 @@
-# Week-2
 # E-Waste Generation Classification
-## Project Description
+## 🧠 Project Description
 - Trained on a dataset of 10 E-Waste classes (e.g., Battery, Mobile, PCB, etc.)
 - Used **EfficientNetV2B0** as the base model with transfer learning.
 - Added data augmentation and dropout to improve generalization.
