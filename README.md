@@ -15,14 +15,20 @@ Each folder contains 10 subfolders for each class label.
 
 ## 📊 Model Performance
 -Validation Accuracy: ~95%+
+
 -Visual performance confirmed via confusion matrix and sample predictions
 
 ## 🧩 Tools & Technologies
 -Python
+
 -TensorFlow / Keras
+
 -EfficientNetV2B0 (Transfer Learning)
+
 -Gradio
+
 -Matplotlib / Seaborn
+
 -Scikit-learn
 
 
